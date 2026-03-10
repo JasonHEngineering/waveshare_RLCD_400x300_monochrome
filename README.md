@@ -1,6 +1,8 @@
 # Waveshare 4.2" RLCD - Monochrome Smart Clock
 
-<img width="1406" height="958" alt="image" src="https://github.com/user-attachments/assets/3afc7429-4fff-449e-ad35-b89d6e2085ae" />
+
+<img width="1412" height="994" alt="image" src="https://github.com/user-attachments/assets/17733e5d-e06e-40ba-b1f4-c91c242011e1" />
+
 
 Smart clock using a ESP32-S3-RLCD-4.2 from Waveshare which is is a RLCD AIoT development board based on ESP32-S3, supporting Wi-Fi and BLE dual-mode communication. "Smart" features includes auto-sync of internet date/time, get buses arrival time, display random trivia, and ability to query from ChatGPT via audio commands. 
 
