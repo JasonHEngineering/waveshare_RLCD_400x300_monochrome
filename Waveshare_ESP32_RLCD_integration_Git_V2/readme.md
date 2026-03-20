@@ -3,6 +3,9 @@ This does means that whenever an item above was changed, one has to only edit th
 
 On the other hand, if one desire to have passwords and apiKeys embedded directly into FW, refer to V1 instead.
 
+<img width="1652" height="512" alt="image" src="https://github.com/user-attachments/assets/0dca6328-c9a1-45e0-9fbb-9f51b3bcd7a0" />
+
+
 Note the following tools settings in Arduino IDE (verified in 2.3.7).
 
 
