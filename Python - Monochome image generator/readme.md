@@ -1,10 +1,12 @@
-#pic_to_monochrome_V1.py
+# pic_to_monochrome_V1.py
+
 (Optional) script to pre-process a camnera image/phtos, especially those of high bit sizes to that of only 4-bit, grey scale.
 
 Change only the input and output file name to process in the working folder of this script: 
 <img width="1038" height="515" alt="image" src="https://github.com/user-attachments/assets/268d0b0e-eb89-4146-a408-07852914415d" />
 
-#Image_bin_generator_V2.py
+# Image_bin_generator_V2.py
+
 This script does 2 actions in 1 run:
 
 1) Initial part of the script takes the input jpg, and convert to true 2 bit monochrome with a default threshold set as 128 (can be changed). This image is saved as an intermediate binary file and also as a preview jpg for quick reference before actual display on monochrome RLCD
