@@ -20,10 +20,10 @@ https://jashuang1983.wordpress.com/waveshare-4-2-rlcd-customized-monochrome-smar
 GitHub - 
 https://github.com/JasonHEngineering/waveshare_RLCD_400x300_monochrome
 
+
 Affiliated Links:
 
-Waveshare ESP32-S3-RLCD-4.2 -  
-https://s.click.aliexpress.com/e/_c4aUKL3J
+Waveshare ESP32-S3-RLCD-4.2 -  https://s.click.aliexpress.com/e/_c4aUKL3J
 
 Panasonic Rechargeable NCR18650B 3400mah 3.7V - 
 https://s.shopee.sg/7pp3mnWVwj
